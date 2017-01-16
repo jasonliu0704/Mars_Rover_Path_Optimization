@@ -1,0 +1,5 @@
+1. why do I need g for task1
+2. In task 1,[dist_1A,hplus_1A,hminus_1A]=compute_path(xs,ys,xe,ye,nwp,wp,x,y,h,n), do I need to use the analytic way to get h?
+3. use all the function with bilinear? and why?
+4. what is the segments?
+5. optimize use descent?
